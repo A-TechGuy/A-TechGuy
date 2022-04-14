@@ -7,6 +7,14 @@
   ![gitHub stats](https://github-readme-stats.vercel.app/api?username=akshay-jh&show_icons=true&theme=radical)
   
   <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
+  
+## Get in touch
+
+* [AboutMe](https://about.me/paghdarakshay)
+* [Stackoverflow](https://stackoverflow.com/users/2437590/akshay-paghdar)
+* [Twitter](https://twitter.com/AkshayPaghdar)
+* [LinkedIn](https://www.linkedin.com/in/akshaypaghdar)
+* [Facebook](https://www.facebook.com/AkshayPaghdar)
 </div>
 <!--
 **akshay-jh/akshay-jh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
