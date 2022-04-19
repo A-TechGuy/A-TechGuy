@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Akshay&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Akshay&fontAlign=75&fontAlignY=40&color=gradient" height="200"/> -->
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif" width="30"/> Welcome to my world! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/></h1>
   <br>
   
