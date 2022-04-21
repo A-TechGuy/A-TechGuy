@@ -5,12 +5,11 @@
   <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshay-jh&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Akshay Paghdar" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay-jh&title=PullRequest,Commits,Stars,Repositories,Issues" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Akshay Paghdar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-jh&layout=compact&bg_color=0F182A&text_color=fffff0" alt="Akshay Paghdar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Akshay Paghdar" />
 </p>
 
   <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
