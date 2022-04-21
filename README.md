@@ -4,17 +4,16 @@
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif" width="30"/> Welcome to my world! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/></h1>
   <br>
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshay-jh&title=PullRequest,Commits,Stars,Repositories,Issues" />
-</p>
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Akshay Paghdar" />
+  <a align="right" href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
+  
+  ---
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&ring=0195FF&fire=red" alt="Akshay Paghdar" />
   <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&count_private=true&include_all_commits=true" />
-</p>
 
-  <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
----
+  ---
+  
   <img src="https://activity-graph.herokuapp.com/graph?username=akshay-jh&theme=chartreuse-dark"/>
 </div>
 
