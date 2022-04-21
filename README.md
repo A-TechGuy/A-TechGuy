@@ -3,13 +3,16 @@
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Akshay&fontAlign=75&fontAlignY=40&color=gradient" height="200"/> -->
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif" width="30"/> Welcome to my world! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/></h1>
   <br>
-  <p align="center">
-<a href="https://github.com/Susmita-Dey">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akshay-jh&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshay-jh&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&hide=objective-c,c,java" />
-</a>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay-jh&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Akshay Paghdar" />
 </p>
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="Akshay Paghdar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-jh&layout=compact&bg_color=0F182A&text_color=fffff0" alt="Akshay Paghdar" />
+</p>
+
   <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
 ---
   <img src="https://activity-graph.herokuapp.com/graph?username=akshay-jh&theme=chartreuse-dark"/>
