@@ -9,8 +9,8 @@
   
   ---
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&ring=0195FF&fire=red" alt="Akshay Paghdar" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay-jh&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-jh&ring=0195FF&fire=red" alt="Akshay Paghdar" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akshay-jh&count_private=true&include_all_commits=true" />
 
   ---
   
