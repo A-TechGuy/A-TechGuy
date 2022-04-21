@@ -5,7 +5,7 @@
   <br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=akshay-jh&title=PullRequest,Commits,Stars,Repositories,Issues" />
-  <a align="right" href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
+  <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
   
   ---
   
@@ -14,7 +14,7 @@
 
   ---
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshay-jh&theme=chartreuse-dark"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=akshay-jh&theme=github"/>
 </div>
 
 ## Get in touch
