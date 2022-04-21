@@ -11,8 +11,8 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&show_icons=true" alt="Akshay Paghdar" />
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=akshay-jh&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-jh&show_icons=true&title_color=ffffff&icon_color=0195FF&text_color=fffff0&bg_color=0F182A" alt="Akshay Paghdar" />
 </p>
 
   <a href="https://stackoverflow.com/users/2437590/akshay-paghdar"><img src="https://stackexchange.com/users/flair/2837204.png" width="300" alt="profile for Akshay Paghdar at Stack Overflow" title="profile for Akshay Paghdar at Stack Overflow"></a>
