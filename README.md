@@ -9,7 +9,7 @@
 
   ---
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=akshay-jh&theme=github"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=A-TechGuy&bg_color=ffffff&color=a06a9c&line=d6534a&point=0033ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   ---
   
